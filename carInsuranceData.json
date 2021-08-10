@@ -1,0 +1,156 @@
+[
+  {
+    "name": "UIC",
+    "info": "Total Loss & Theft Only (Takaful)",
+    "percentage": "10",
+    "policy_url": "https://www.smartinsure.pk",
+    "image": "/Insurance-Brands/uic.png",
+    "first": [
+      {
+        "label": "Total Loss",
+        "status": true
+      },
+      {
+        "label": "Theft Cover",
+        "status": true
+      },
+      {
+        "label": "Accidental Damage",
+        "status": false
+      }
+    ],
+    "coverage": [
+      "Total Loss",
+      "Theft & Snatching",
+      "Third Party Liability",
+      "Personal Accident Rs.10,000"
+    ]
+  },
+
+  {
+    "name": "UIC",
+    "info": "Comprehensive",
+    "percentage": "13",
+    "policy_url": "https://www.smartinsure.pk",
+    "image": "/Insurance-Brands/uic.png",
+    "first": [
+      {
+        "label": "Total Loss",
+        "status": true
+      },
+      {
+        "label": "Theft Cover",
+        "status": true
+      },
+      {
+        "label": "Accidental Damage",
+        "status": true
+      }
+    ],
+    "coverage": [
+      "Accidental Damage",
+      "Malicious Act",
+      "Earthquake",
+      "Third Party Liability",
+      "Fire & Explosion",
+      "Strike & Riot",
+      "Whilst in Transit",
+      "Deducitble PKR 10,000",
+      "Burglary or Theft",
+      "Flood, Storm etc",
+      "Medical Expenses"
+    ]
+  },
+  {
+    "name": "Premier",
+    "info": "Theft and Total Loss",
+    "percentage": "11",
+    "policy_url": "https://www.smartinsure.pk",
+    "image": "/Insurance-Brands/pi.jpg",
+    "first": [
+      {
+        "label": "Total Loss",
+        "status": true
+      },
+      {
+        "label": "Theft Cover",
+        "status": true
+      },
+      {
+        "label": "Accidental Damage",
+        "status": false
+      }
+    ],
+    "coverage": ["Total Loss", "Theft & Snatching"]
+  },
+  {
+    "name": "Pak Qatar Takaful",
+    "info": "Motor Cycle Comprehensive",
+    "percentage": "13",
+    "policy_url": "https://www.smartinsure.pk",
+    "image": "/Insurance-Brands/ji.jpg",
+    "first": [
+      {
+        "label": "Total Loss",
+        "status": true
+      },
+      {
+        "label": "Theft Cover",
+        "status": true
+      },
+      {
+        "label": "Accidental Damage",
+        "status": true
+      }
+    ],
+    "coverage": [
+      "Accidental Damage",
+      "Malicious Act",
+      "Earthquake",
+      "Third Party Liability",
+      "Fire & Explosion",
+      "Strike & Riot",
+      "Whilst in Transit",
+      "Deducitble 10% per loss",
+      "Burglary or Theft",
+      "Flood, Storm etc",
+      "Medical Expenses"
+    ]
+  },
+  {
+    "name": "Jubilee",
+    "info": "Motor Cycle Comprehensive",
+    "percentage": "14",
+    "policy_url": "https://www.smartinsure.pk",
+    "image": "/Insurance-Brands/ji.jpg",
+    "first": [
+      {
+        "label": "Total Loss",
+        "status": true
+      },
+      {
+        "label": "Theft Cover",
+        "status": true
+      },
+      {
+        "label": "Accidental Damage",
+        "status": true
+      }
+    ],
+    "coverage": [
+      "Accidental Damage",
+      "Malicious Act",
+      "Earthquake",
+      "Third Party Liability",
+      "Fire & Explosion",
+      "Strike & Riot",
+      "Whilst in Transit",
+      "Deducitble 15% per loss",
+      "Burglary or Theft",
+      "Flood, Storm etc",
+      "Medical Expenses RS. 500",
+      "Towing Charges RS. 500",
+      "Self Repair RS. 750"
+    ]
+  }
+]
